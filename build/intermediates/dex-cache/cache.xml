@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_2adf6d959707c2f5c7211031ec5065488c1bd9c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_3d59ccd7bade221e4ecb62f997da450e88ac41ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_b99d98b856a12b624083a10cc58ab3b0dc9fb908/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_56d9800671c393f7ce85c1996f06c9dd31fdd805/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_7c3287df87776a42f3a937bce67352cf4499504c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f10d92a3dd9a18b1b52954e38dc0a1edc0419cc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fa2b353aff4804650b921fe17c4be0589308e8db">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8ed0070b92f3a7b2c86c63c96a7ad7590885cff6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1e802c7a465c7ef00ef6f5f501ec401db4698e0b">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_05cfa279b3f5bb31f9cf894e1f16631757a7cc8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/percent/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b10d60271c8298c59316050648bd9bb7adc5019a">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-percent-24.2.0_9c85d6aee21869c1b6e223f27cf4df9b411ae639/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1adde6bd6352ee68be4d72d63d69707dfbc47ccf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_1d580741bcb70f537f666085524e1c85fa917f15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_3b716af661d85e4d116402a35ee631e399692180/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_2006fe7d6151bf307ca872c9ae554f1fc9e97052/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_a74d06405cf0b4cf5136e5cce271cef7f20a62c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.0_e59f83dab3e39070581d177c66c317ebdb324621/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.0_2dbbcc73e96125cdb8df1387c4b18fdfd4887522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_12c88ff46a423ed041c61bf8a19c775da5fd0f43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_14849abf5714836004571d2616f8e6ca8e28e9a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_10b3fccdf9ed307e789de1915393709ccdbc4364/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/bogdan/DemoProfileApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/bogdan/DemoProfileApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_c64445d8d46701e59686307715961a16ff8a39f8/classes.dex" />
+    </item>
+
+</items>

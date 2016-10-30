@@ -1,0 +1,31 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="profile_appbar_height">550dp</dimen>
+    <dimen name="profile_user_avatar_height">300dp</dimen>
+    <dimen name="profile_user_name_margin_top">150dp</dimen>
+    <dimen name="profile_followers_count_size">18sp</dimen>
+    <dimen name="profile_edit_profile_icon_width">50dp</dimen>
+    <dimen name="profile_edit_profile_icon_height">50dp</dimen>
+    <dimen name="profile_edit_icon_margin_top">20dp</dimen>
+    <dimen name="profile_edit_profile_margin_bottom">20dp</dimen>
+    <dimen name="profile_icon_influence_width">100dp</dimen>
+    <dimen name="profile_icon_influence_height">100dp</dimen>
+    <dimen name="profile_slogan_text_size">18sp</dimen>
+    <dimen name="profile_slogan_text_margin">10dp</dimen>
+    <dimen name="profile_update_icon_width">35dp</dimen>
+    <dimen name="profile_update_icon_height">35dp</dimen>
+    <dimen name="profile_award_icon_width">35dp</dimen>
+    <dimen name="profile_award_icon_height">35dp</dimen>
+    <dimen name="profile_line_separator_height">2dp</dimen>
+    <dimen name="profile_bottom_icon_margin">5dp</dimen>
+    <dimen name="profile_block_layout_margin">10dp</dimen>
+    <dimen name="profile_chat_icon_width">50dp</dimen>
+    <dimen name="profile_chat_icon_height">50dp</dimen>
+    <dimen name="profile_chat_icon_margin_top">20dp</dimen>
+    <dimen name="profile_user_name_size">24sp</dimen>
+</resources>

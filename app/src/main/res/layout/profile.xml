@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/profile_user_avatar_height"
+        android:scaleType="centerCrop"
+        android:src="@drawable/photo_ressmall" />
+
+    <TextView
+        android:id="@+id/tv_user_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/ProfileUserNameTextView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/profile_user_name_margin_top"
+        android:text="anna420" />
+
+    <TextView
+        android:id="@+id/tv_followers_count"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_user_name"
+        android:layout_centerHorizontal="true"
+        style="@style/ProfileFollowersCountTextView"
+        android:text="3,132 followers" />
+
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_followers_count"
+        android:background="@drawable/bottom_res"
+        android:orientation="horizontal">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/profile_edit_profile_icon_width"
+                android:layout_height="@dimen/profile_edit_profile_icon_height"
+                android:layout_marginTop="@dimen/profile_edit_icon_margin_top"
+                android:src="@drawable/icon_follow" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/profile_edit_profile_margin_bottom"
+                android:text="@string/edit_profile"
+                android:textColor="@color/profile_grey_light_text" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/profile_icon_influence_width"
+                android:layout_height="@dimen/profile_icon_influence_height"
+                android:src="@drawable/influence" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Denwer, CO"
+                android:textColor="@color/profile_grey_light_text" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="@dimen/profile_chat_icon_width"
+                android:layout_height="@dimen/profile_chat_icon_height"
+                android:layout_marginTop="@dimen/profile_chat_icon_margin_top"
+                android:src="@drawable/icon_chat" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:text="My Sesh"
+                android:textColor="@color/profile_grey_light_text" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/ll_bottom"
+        android:layout_marginTop="@dimen/profile_block_layout_margin"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/profile_slogan_text_margin"
+            android:layout_marginTop="@dimen/profile_slogan_text_margin"
+            android:gravity="center"
+            android:text="Be true to yourself, smoke everyday, and pass my dubys! "
+            android:textColor="@color/profile_slogan_color"
+            android:textSize="@dimen/profile_slogan_text_size" />
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/profile_line_separator_height"
+            android:background="@color/profile_line_separator" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/profile_block_layout_margin"
+            android:layout_marginTop="@dimen/profile_block_layout_margin"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/profile_update_icon_width"
+                android:layout_height="@dimen/profile_update_icon_height"
+                android:layout_marginEnd="@dimen/profile_bottom_icon_margin"
+                android:src="@drawable/icon_rotate" />
+
+            <ImageView
+                android:layout_width="@dimen/profile_award_icon_width"
+                android:layout_height="@dimen/profile_award_icon_height"
+                android:layout_marginStart="@dimen/profile_bottom_icon_margin"
+                android:src="@drawable/icon_award" />
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>
